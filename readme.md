@@ -65,8 +65,8 @@
 ### 🔃 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/proshop2.git
-cd proshop2
+git clone https://github.com/asmit557/Shopping-Cart--Web-Application.git
+cd Shopping-Cart--Web-Application
 ```
 
 ### 📁 Backend Setup
