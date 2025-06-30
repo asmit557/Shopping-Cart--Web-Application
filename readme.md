@@ -1,6 +1,6 @@
 # 🛒 ProShop 2.0 – Full-Stack eCommerce App 🚀
 
-![ProShop Banner](https://raw.githubusercontent.com/your-username/proshop2/main/public/banner.png)
+![ProShop Banner](https://github.com/asmit557/Shopping-Cart--Web-Application/blob/main/frontend/public/Screenshot%202025-06-30%20113434.png)
 
 > A complete **MERN stack eCommerce platform** with PayPal integration, JWT authentication, secure admin access, and powerful cart functionality. Built for scalability, real-world deployment, and great UX.
 
