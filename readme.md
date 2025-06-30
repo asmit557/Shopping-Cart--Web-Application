@@ -56,9 +56,7 @@
 
 ## 📸 Screenshots
 
-| Home Page                                                                                      | Product Page                                                                                         | Admin Dashboard                                                                                  |
-| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| ![Home](https://raw.githubusercontent.com/your-username/proshop2/main/public/screens/home.png) | ![Product](https://raw.githubusercontent.com/your-username/proshop2/main/public/screens/product.png) | ![Admin](https://raw.githubusercontent.com/your-username/proshop2/main/public/screens/admin.png) |
+ ![Screen](https://github.com/asmit557/Shopping-Cart--Web-Application/blob/main/frontend/public/images/screens.png)
 
 ---
 
